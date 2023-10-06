@@ -6,5 +6,3 @@ Currently I'm learning how to code, and I'm constantly seeking opportunities to 
 
 I'm open to collaboration and connecting with fellow developers and tech enthusiasts, so feel free to reach out.
 
-Let's learn and grow together!
-
