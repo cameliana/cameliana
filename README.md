@@ -12,21 +12,20 @@ Currently mastering HTML, CSS, and JavaScript, I'm on a journey to transform my 
 ## Projects
 
 ### *[Simple Interest Calculator](https://github.com/cameliana/interest-calculator)* <br>
-A web application built using HTML, CSS, and JavaScript to calculate interest based on user input.
-<br>
+A web application built using HTML, CSS, and JavaScript to calculate interest based on user input. <br><br>
 
 ### *[Amelia Earhart Tribute Page](https://github.com/cameliana/tribute-page)* <br>
-Independent project for the Responsive Web Design Certification, showcasing a tribute page.
-<br>
+Independent project for the Responsive Web Design Certification, showcasing a tribute page.<br><br>
+
 
 ### *[Personality profile survey form](https://github.com/cameliana/form-survey)* <br>
-An independent project as part of the Responsive Web Design Certification, creating a responsive survey form.
-<br>
+An independent project as part of the Responsive Web Design Certification, creating a responsive survey form.<br><br>
+
 
 ### *[STEM website](https://github.com/cameliana/stem/tree/main)* <br>
-A group project aimed at introducing young people and their parents to STEM (Science, Technology, Engineering, Mathematics).
-<br>
+A group project aimed at introducing young people and their parents to STEM (Science, Technology, Engineering, Mathematics).<br><br>
+
 
 ### *[Just Breathe](https://codepen.io/cameliana/pen/PoxRXWB)* <br>
-A CodePen group project focusing on breathing meditation. <br>
+A CodePen group project focusing on breathing meditation. <br><br>
 
