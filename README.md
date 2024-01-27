@@ -15,10 +15,10 @@ Here are some of the projects I've worked on:
 ### [Simple Interest Calculator](https://github.com/cameliana/interest-calculator)
 A web application built using HTML, CSS, and JavaScript to calculate interest based on user input.
 
-### [Tribute Page]https://github.com/cameliana/tribute-page
+### [Amelia Earhart Tribute Page](https://github.com/cameliana/tribute-page)
 Another independent project for the Responsive Web Design Certification, showcasing a tribute page.
 
-### [Survey Form](https://github.com/cameliana/form-survey)
+### [Personality profile survey form](https://github.com/cameliana/form-survey)
 An independent project as part of the Responsive Web Design Certification, creating a responsive survey form.
 
 ### [STEM website]
@@ -26,11 +26,3 @@ A group project aimed at introducing young people and their parents to STEM (Sci
 
 ### [Just Breathe](https://codepen.io/cameliana/pen/PoxRXWB)
 A CodePen group project focusing on breathing meditation.
-
-## Contact Me
-
-I'm always excited to connect with the tech community. Feel free to reach out:
-
-LinkedIn:[Camelia Orbulescu](linkedin.com/in/camelia-orbulescu)
-
-Let's code together and build something amazing! 🚀
