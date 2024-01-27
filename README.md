@@ -25,4 +25,4 @@ An independent project as part of the Responsive Web Design Certification, creat
 A group project aimed at introducing young people and their parents to STEM (Science, Technology, Engineering, Mathematics).
 
 ### [Just Breathe](https://codepen.io/cameliana/pen/PoxRXWB)
-A CodePen group project focusing on breathing meditation.
+CodePen group project focusing on breathing meditation.
