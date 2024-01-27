@@ -8,9 +8,8 @@ Currently mastering HTML, CSS, and JavaScript, I'm on a journey to transform my 
 - I'm constantly seeking opportunities to expand my knowledge and skills.
 - Open to collaboration and connecting with fellow developers and tech enthusiasts.
 
-## Projects
 
-Here are some of the projects I've worked on:
+## Projects
 
 ### [Simple Interest Calculator](https://github.com/cameliana/interest-calculator)
 A web application built using HTML, CSS, and JavaScript to calculate interest based on user input.
