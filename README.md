@@ -6,6 +6,7 @@ Currently mastering HTML, CSS, and JavaScript, I'm on a journey to transform my 
 ## About Me
 - I'm currently learning web development technologies: HTML, CSS, and JavaScript.
 - I'm constantly seeking opportunities to expand my knowledge and skills.
+- Interest in AI-generated images, exploring the intersection of creativity and technology.
 - Open to collaboration and connecting with fellow developers and tech enthusiasts.
 
 
