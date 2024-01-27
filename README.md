@@ -11,11 +11,11 @@ Currently mastering HTML, CSS, and JavaScript, I'm on a journey to transform my 
 
 ## Projects
 
-#**[Simple Interest Calculator](https://github.com/cameliana/interest-calculator)**<br>
+#[Simple Interest Calculator](https://github.com/cameliana/interest-calculator)<br>
 A web application built using HTML, CSS, and JavaScript to calculate interest based on user input.
 
 
-#**[Amelia Earhart Tribute Page](https://github.com/cameliana/tribute-page)**<br>
+#[Amelia Earhart Tribute Page](https://github.com/cameliana/tribute-page)<br>
 Independent project for the Responsive Web Design Certification, showcasing a tribute page.
 
 
