@@ -1,6 +1,6 @@
 ## Hello world! 👋🌍
 
-I'm Camelia, a passionate learner and aspiring developer venturing into the exciting world of coding and technology.
+I'm Camelia, Applied Behaviour Analysis tutor, a passionate learner and aspiring developer venturing into the exciting world of coding and technology.
 Currently mastering HTML, CSS, and JavaScript, I'm on a journey to transform my career and make a mark in the tech industry.
 
 ## About Me
