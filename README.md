@@ -33,3 +33,5 @@ A CodePen group project focusing on breathing meditation. <br><br>
 ### *[Myth Chambers](https://github.com/cameliana/myth-chambers)* 
 An independent project- work in progress. <br><br>
 
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camelia-orbulescu/)
