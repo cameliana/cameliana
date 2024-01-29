@@ -30,6 +30,6 @@ A group project aimed at introducing young people and their parents to STEM (Sci
 ### *[Just Breathe](https://codepen.io/cameliana/pen/PoxRXWB)* 
 A CodePen group project focusing on breathing meditation. <br><br>
 
-### *[Myth Chambers]()* 
+### *[Myth Chambers](https://github.com/cameliana/myth-chambers)* 
 An independent project- work in progress. <br><br>
 
