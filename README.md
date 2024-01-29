@@ -1,7 +1,7 @@
 ## Hello world! 👋🌍
 
-I'm Camelia, Applied Behaviour Analysis tutor, a passionate learner and aspiring developer venturing into the exciting world of coding and technology.
-Currently mastering HTML, CSS, and JavaScript, I'm on a journey to transform my career and make a mark in the tech industry.
+ I'm Camelia - an enthusiastic Applied Behavior Analysis tutor, a relentless learner, and an aspiring developer stepping into the thrilling landscape of coding and technology. 
+ Currently mastering HTML, CSS, and JavaScript, I'm on a journey to transform my career and make a mark in the tech industry.
 
 ## About Me
 - I'm currently learning web development technologies: HTML, CSS, and JavaScript.
