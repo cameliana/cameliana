@@ -13,7 +13,7 @@
 ## Projects
 
 ### *[Technical documentation](https://github.com/cameliana/Git-install)* 
-An independent techincal documentation page on how to install Git in Visual Studio Code. <br><br>
+An independent technical documentation page on how to install Git in Visual Studio Code. <br><br>
 
 ### *[Simple Interest Calculator](https://github.com/cameliana/interest-calculator)* 
 A web application built using HTML, CSS, and JavaScript to calculate interest based on user input. <br><br>
