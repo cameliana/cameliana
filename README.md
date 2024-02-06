@@ -12,6 +12,9 @@
 
 ## Projects
 
+### *[Technical documentation]([https://github.com/cameliana/myth-chambers](https://cameliana.github.io/Git-install/))* 
+An independent techincal documentation page on how to install Git in Visual Studio Code. <br><br>
+
 ### *[Simple Interest Calculator](https://github.com/cameliana/interest-calculator)* 
 A web application built using HTML, CSS, and JavaScript to calculate interest based on user input. <br><br>
 
@@ -30,8 +33,6 @@ A group project aimed at introducing young people and their parents to STEM (Sci
 ### *[Just Breathe](https://codepen.io/cameliana/pen/PoxRXWB)* 
 A CodePen group project focusing on breathing meditation. <br><br>
 
-### *[Myth Chambers](https://github.com/cameliana/myth-chambers)* 
-An independent project- work in progress. <br><br>
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camelia-orbulescu/)
