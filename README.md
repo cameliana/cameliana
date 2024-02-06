@@ -12,7 +12,7 @@
 
 ## Projects
 
-### *[Technical documentation](https://cameliana.github.io/Git-install/)* 
+### *[Technical documentation](https://github.com/cameliana/Git-install)* 
 An independent techincal documentation page on how to install Git in Visual Studio Code. <br><br>
 
 ### *[Simple Interest Calculator](https://github.com/cameliana/interest-calculator)* 
